@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for dpmockup on 2023-11-03T11:41:15+09:00
+# fly.toml app configuration file generated for mockup on 2023-11-03T14:32:32+09:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "dpmockup"
+app = "mockup"
 primary_region = "nrt"
 
 [build]
